@@ -14,7 +14,7 @@ export default function App() {
   return (
     <main>
       {/* Gradient Background Image */}
-      <img src="../src/assets/gradient.png" alt="Gradient image" className="absolute top-0 left-0 opacity-60 -z-10"/>
+      <img src="../gradient.png" alt="Gradient image" className="absolute top-0 left-0 opacity-60 -z-10"/>
       {/* bluer effect */}
       <div
         className="h-0 w-[40rem] absolute top-[20%] right-[-5%] -z-10"
